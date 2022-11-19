@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asadali2468
 - 👀 I’m interested in developing & maintaining WordPress and Moodle websites/apps
 - 🌱 I’m currently learning WordPress pugin development for Elementor and Divi
-- 💞️ I’m looking to collaborate on eLearning, eCommerece, WordPress and Moodle projects
+- 💞️ I’m looking to collaborate on eLearning, eCommerece, and WordPress projects
 - 📫 Reach me at asadaly.developer@gmail.com
 
 <!---
