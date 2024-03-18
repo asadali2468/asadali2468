@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asadali2468
+- 👋 Hi, I’m Asad Ali (@asadali2468)
 - 👀 I’m interested in developing & maintaining WordPress websites/apps
 - 🌱 I’m currently learning React Native for Android and iOS apps development
 - 💞️ I’m looking to collaborate on eLearning, eCommerece, WordPress, JavaScript, PHP, and ReactJs projects
